@@ -1,0 +1,17 @@
+{
+  "name": "InstaScrapper",
+  "version": "1.0",
+  "description": "Trick API",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "cheerio": "^1.0.0-rc.10",
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "puppeteer": "1.17.0",
+    "puppeteer-extra": "^3.2.3",
+    "puppeteer-extra-plugin-stealth": "^2.9.0",
+    "request-promise": "^4.2.6"
+  }
+}
